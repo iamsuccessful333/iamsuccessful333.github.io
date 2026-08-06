@@ -1,5 +1,5 @@
 # Jekyll
-theme: linkhub-jekyll-theme
+remote_theme: linkhub-jekyll-theme
 
 # Site Configuration
 name: Linkhub  # Name of your website
